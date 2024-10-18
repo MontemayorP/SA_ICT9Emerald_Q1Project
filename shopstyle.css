@@ -1,0 +1,44 @@
+body {background-color: #ffffff; padding-left: 50px; margin-bottom: 0px; padding-right: 50px; padding-bottom: 0px;}
+@font-face {font-family: "Creamer"; src: url('Creamer_.woff') format("woff");}
+ @font-face {font-family: 'LouisLight'; src: url('lemonmilk-light.woff') format('woff');}
+ @font-face {font-family: 'Coco'; src: url('cocogoose.woff') format('woff');}
+ @font-face {font-family: 'Kinkee'; src: url('angels.woff') format('woff');}
+ @font-face {font-family: 'Class'; src: url('Class.woff') format('woff');}
+ @font-face {font-family: 'Cham'; src: url('champagne.woff') format('woff');}
+  @font-face {font-family: 'Louis'; src: url('louislight.woff') format('woff');}
+   @font-face {font-family: 'Beach'; src: url('beach.woff') format('woff');}
+.brandname {font-family: "Creamer"; text-align: left; color: #fca4b3; font-size: 20px; margin-left: 50px; position: absolute; top: 10px}
+.Valentine {position: absolute;top: 80px; margin-left: 50px; padding-bottom: 0px;}
+.douyin {height: 750px; position: absolute; top: 200px; padding-left: 0px; margin-left: 50px; width: 1000px; border-radius: 20px; border-color: #fca4b3}
+.Pinkplace {width: 1300px; height: 750px; margin-left: 50px; margin-right: auto; display: block; border-radius: 30px; position: absolute; top: 200px; }
+.Menu {position: absolute; top: 110px; font-size: 35px; text-align: center; color: #fca4b3; font-family:'Coco'; float: right; margin-left: 400px; position: absolute; top: 70px;}
+.Signin {margin-left:1400px; height: 30px; float: right; padding-top: 0px; position: absolute; top: 30px;}
+.firstline {background-color: #fca4b3; color: #fca4b3, noshade; width:1300px; height: 50px; border-radius:
+ 30px; margin-left: auto; margin-right: auto; display: block; border-color:#fca4b3; border-style: solid;}
+ .New {position: absolute; top: 300px; font-family: 'Kinkee';color: #FFB8BB;-webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;}
+  .Arrive {font-size: 70px; margin-left: 800px; text-align: right; }
+  .neww {font-size: 90px; margin-left: 800px; text-align: center; }
+  .discount {position: absolute; top: 3px; margin-left: 550px; font-size: 16px; font-family: 'Class'; color: white; text-align: center;}
+  .rectangle {margin-top: 2000px; height: 500px; width: 1300px; background-color: #fca4b3; border-radius: 30px; margin-left: 50px; margin-right: 50px; padding-bottom: 1px; margin-bottom: 1px;}
+  .brandname2 {font-family: "Creamer"; text-align: left; color: white; font-size: 20px; margin-left: 90px; position: absolute; top: 2180px}
+  .Care {margin-left: 500px; position: absolute; top: 2200px; font-size: 35px; color: white; font-family: "Louis"; font-weight: bolder;}
+  .Customer {list-style-type: none; margin-left: 470px; position: absolute; top: 2300px; font-size: 25px; color: white; font-family: "Louis";}
+  .sign {margin-left: 870px; position: absolute; top: 2210px; font-size: 25px; color: white; font-family: "Louis";}
+  .up {margin-left: 30px; position: absolute; top: 90px; font-size: 20px; color: white; font-family: "Louis";}
+  .input {border-color: white; height: 40px; width: 250px; font-family: "Class"; font-weight: bold; border-style: solid; color: black; font-size: 15px;}
+  .Ok {border-color: black; height: 45px; width: 50px; font-family: "Class"; border-style: solid; background-color: black; color: white; top: 2345px; margin-left: 1140px; position: absolute;}
+  .secondline {background-color: #FFF1F5 ; color: #FFF1F5  , noshade; width:1300px; height: 200px; border-radius:
+ 20px; margin-left: 50px; margin-right: 50px; display: block; border-color:#FFF1F5  ; border-style: solid; margin-top: 1000px; position: absolute;}
+ .stainless {position: absolute; top: 1130px; font-family: "Cham"; color: black; font-size: 50px; text-align: center; margin-left: 250px;}
+ .orange{ height: 600px; position: absolute; top: 1400px; margin-right: 600px; border-radius: 20px; padding: 0px; margin-left: 50px; width: 400px;}
+ .lipstick {height: 600px; position: absolute; top: 1400px; margin-left: 500px; border-radius: 20px; padding: 0px; width: 400px;}
+ .lipbalm {height: 600px; position: absolute; top: 1400px; margin-left: 950px; border-radius: 20px; padding: 0px; width: 400px;}
+ .discover {position: absolute; top: 1750px; font-size:25px; color: white; margin-left: 100px; font-family: "Louis"; opacity: 0.9}
+ .lippies {font-family: "Louis";; font-family:"Beach"; color: white; opacity: 0.9}
+.cool {margin-left: 70px; position: absolute;top:1790px; font-size: 50px}
+.neutral {margin-left: 970px; position: absolute;top:1815px; font-size: 43px}
+.warm {margin-left: 530px;  position: absolute;top: 1800px; font-size: 52px; }
+.Use {position: absolute; top: 500px; font-family: "LouisLight"; font-size: 40px; -webkit-text-stroke-width: 0.3px;
+  -webkit-text-stroke-color:#FFB8BB ; color: white; margin-left: 800px}
+  .barb {top: 600px; position: absolute; margin-left: 1070px;height: 400px;}

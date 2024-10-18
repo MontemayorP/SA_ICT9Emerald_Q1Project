@@ -1,0 +1,21 @@
+body {background-color: #ffffff; padding-left: 50px; margin-bottom: 100px; padding-right: 50px; padding-bottom: 1500px;}
+@font-face {font-family: "Creamer"; src: url('Creamer_.woff') format("woff");}
+ @font-face {font-family: 'LouisLight'; src: url('lemonmilk-light.woff') format('woff');}
+ @font-face {font-family: 'Coco'; src: url('cocogoose.woff') format('woff');}
+ @font-face {font-family: 'Kinkee'; src: url('angels.woff') format('woff');}
+ @font-face {font-family: 'Class'; src: url('Class.woff') format('woff');}
+.brandname {font-family: "Creamer"; text-align: left; color: #fca4b3; font-size: 20px; margin-left: 50px; position: absolute; top: 10px}
+.Valentine {position: absolute;top: 80px; margin-left: 50px; padding-bottom: 0px;}
+.Menu {position: absolute; top: 110px; font-size: 35px; text-align: center; color: #fca4b3; font-family:'Coco'; float: right; margin-left: 400px; position: absolute; top: 70px;}
+.Signin {margin-left:1400px; height: 30px; float: right; padding-top: 0px; position: absolute; top: 30px;}
+.firstline {background-color: #fca4b3; color: #fca4b3, noshade; width:1300px; height: 50px; border-radius:
+ 30px; margin-left: auto; margin-right: auto; display: block; border-color:#fca4b3; border-style: solid;}
+ .rectangle {margin-top: 1100px; height: 500px; width: 1300px; background-color: #fca4b3; border-radius: 30px; margin-left: 50px; margin-right: 50px; padding-bottom: 1px; margin-bottom: 1px;}
+  .brandname2 {font-family: "Creamer"; text-align: left; color: white; font-size: 20px; margin-left: 90px; position: absolute; top: 1150px}
+  .Care {margin-left: 500px; position: absolute; top: 1180px; font-size: 35px; color: white; font-family: "Louis"; font-weight: bolder;}
+  .Customer {list-style-type: none; margin-left: 470px; position: absolute; top: 1300px; font-size: 25px; color: white; font-family: "Louis";}
+  .sign {margin-left: 870px; position: absolute; top: 1190px; font-size: 25px; color: white; font-family: "Louis";}
+  .up {margin-left: 470px; position: absolute; top: 1180px; font-size: 25px; color: white; font-family: "Louis";}
+  .input {border-color: white; height: 40px; width: 250px; font-family: "Class"; font-weight: bold; border-style: solid; color: black; font-size: 15px;}
+  .Ok {border-color: black; height: 45px; width: 50px; font-family: "Class"; border-style: solid; background-color: black; color: white; top: 1325px; margin-left: 1140px; position: absolute;}
+  

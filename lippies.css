@@ -1,0 +1,30 @@
+body {background-color: #ffffff; padding-left: 50px; margin-bottom: 100px; padding-right: 50px; padding-bottom: 1500px;}
+@font-face {font-family: "Creamer"; src: url('Creamer_.woff') format("woff");}
+ @font-face {font-family: 'LouisLight'; src: url('lemonmilk-light.woff') format('woff');}
+ @font-face {font-family: 'Coco'; src: url('cocogoose.woff') format('woff');}
+ @font-face {font-family: 'Kinkee'; src: url('angels.woff') format('woff');}
+ @font-face {font-family: 'Class'; src: url('Class.woff') format('woff');}
+ @font-face {font-family: 'Cham'; src: url('champagne.woff') format('woff');}
+  @font-face {font-family: 'Louis'; src: url('louislight.woff') format('woff');}
+   @font-face {font-family: 'Beach'; src: url('beach.woff') format('woff');}
+.brandname {font-family: "Creamer"; text-align: left; color: #fca4b3; font-size: 20px; margin-left: 50px; position: absolute; top: 10px}
+.Valentine {position: absolute;top: 80px; margin-left: 50px; padding-bottom: 0px;}
+.Menu {position: absolute; top: 110px; font-size: 35px; text-align: center; color: #fca4b3; font-family:'Coco'; float: right; margin-left: 400px; position: absolute; top: 70px;}
+.Signin {margin-left:1400px; height: 30px; float: right; padding-top: 0px; position: absolute; top: 30px;}
+.firstline {background-color: #fca4b3; color: #fca4b3, noshade; width:1300px; height: 50px; border-radius:
+ 30px; margin-left: auto; margin-right: auto; display: block; border-color:#fca4b3; border-style: solid;}
+ .discount {position: absolute; top: 3px; margin-left: 550px; font-size: 16px; font-family: 'Class'; color: white; text-align: center;}
+ .secondline {background-color: #FFF1F5 ; color: #FFF1F5  , noshade; width:1300px; height: 200px; border-radius:
+ 20px; margin-left: auto; margin-right: auto; display: block; border-color:#FFF1F5  ; border-style: solid; margin-top: 140px;}
+ .stainless {position: absolute; top: 250px; font-family: "Cham"; color: black; font-size: 50px; text-align: center; margin-left: 250px; }
+ .filter {float: right; margin-left: 20px; font-family: 'Class'; font-size: 20px; margin-right: 1260px;}
+ .orange{ height: 600px; position: absolute; top: 600px; margin-right: 600px; border-radius: 20px; padding: 0px; margin-left: 50px; width: 400px;}
+ .lipstick {height: 600px; position: absolute; top: 600px; margin-left: 500px; border-radius: 20px; padding: 0px; width: 400px;}
+ .lipbalm {height: 600px; position: absolute; top: 600px; margin-left: 950px; border-radius: 20px; padding: 0px; width: 400px;}
+ .filterimg  {height: 20px; margin-left: 50px; padding-right: 0px; margin-bottom: 0px; position: absolute; top: 475px; }
+ .discover {position: absolute; top: 990px; font-size:25px; color: white; margin-left: 100px; font-family: "Louis"; opacity: 0.9}
+ .lippies {font-family: "Louis";; font-family:"Beach"; color: white; opacity: 0.9}
+.cool {margin-left: 70px; position: absolute;top:1000px; font-size: 50px}
+.neutral {margin-left: 970px; position: absolute;top:1025px; font-size: 43px}
+.warm {margin-left: 530px;  position: absolute;top: 1010px; font-size: 52px; }
+
